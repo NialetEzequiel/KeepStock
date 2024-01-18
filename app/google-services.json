@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "780970008918",
+    "project_id": "pruebafirebase-b4577",
+    "storage_bucket": "pruebafirebase-b4577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780970008918:android:51d9eeeb6269de17ab76f7",
+        "android_client_info": {
+          "package_name": "com.nialet.keepstock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCrB1g7BZ1svvOQoXG1lkL0bEt6VWdseA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780970008918:android:69fa72360c169f09ab76f7",
+        "android_client_info": {
+          "package_name": "com.nialet.pruebafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCrB1g7BZ1svvOQoXG1lkL0bEt6VWdseA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

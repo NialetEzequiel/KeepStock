@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.KeepStock" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!--<item name="colorPrimary">@color/my_light_primary</item>-->
+        <item name="colorPrimary">@color/keepstock_orange</item>
+        <item name="colorSecondary">@color/keepstock_green</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="Theme.KeepStock" parent="Base.Theme.KeepStock" />
+</resources>
